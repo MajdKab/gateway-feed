@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<feed>
+  <listing>
+    <id>B-F2/3-03</id>
+    <title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</title>
+    <price>2921861</price>
+    <currency>AED</currency>
+    <location>
+      <address>Gateway Porto Al Zorah, Ajman</address>
+      <city>Ajman</city>
+      <country_code>AE</country_code>
+    </location>
+    <property_details>
+      <property_type>apartment</property_type>
+      <bedrooms>2</bedrooms>
+      <bathrooms>3</bathrooms>
+      <living_area>2301</living_area>
+      <living_area_unit>ft²</living_area_unit>
+      <new_development>true</new_development>
+    </property_details>
+    <images>
+      <image>https://majdkab.github.io/gateway-feed/images/B-F2-3-03.jpg</image>
+    </images>
+    <description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2301 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
+  </listing>
+  <listing>
+    <id>B-F2/3-04</id>
+    <title>2 Bed (Type 4) – Duplex with Marina View - Gateway Al Zorah</title>
+    <price>2898485</price>
+    <currency>AED</currency>
+    <location>
+      <address>Gateway Porto Al Zorah, Ajman</address>
+      <city>Ajman</city>
+      <country_code>AE</country_code>
+    </location>
+    <property_details>
+      <property_type>apartment</property_type>
+      <bedrooms>2</bedrooms>
+      <bathrooms>3</bathrooms>
+      <living_area>2282</living_area>
+      <living_area_unit>ft²</living_area_unit>
+      <new_development>true</new_development>
+    </property_details>
+    <images>
+      <image>https://majdkab.github.io/gateway-feed/images/B-F2-3-04.jpg</image>
+    </images>
+    <description>This 2 Bed (Type 4) – Duplex offers a stunning Marina View in the prestigious Gateway Porto Al Zorah. With a total area of 2282 ft², this off-plan apartment is ideal for serene waterfront living. Estimated handover: December 2026. Flexible 50/50 payment plan available.</description>
+  </listing>
+</feed>
